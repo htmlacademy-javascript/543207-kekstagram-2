@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Николай Ларьков](https://up.htmlacademy.ru/javascript-individual/2/user/543207).
-* Наставник: `Неизвестно`.
+- Студент: [Николай Ларьков](https://up.htmlacademy.ru/javascript-individual/2/user/543207).
+- Наставник: [Ярослав Шевцов](https://htmlacademy.ru/profile/redx).
 
 ---
 
